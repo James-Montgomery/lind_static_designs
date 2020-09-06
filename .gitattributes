@@ -1,1 +1,2 @@
 project/_version.py export-subst
+lind_static_resources/_version.py export-subst

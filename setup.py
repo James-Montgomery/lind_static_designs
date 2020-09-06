@@ -46,10 +46,7 @@ def read_text(file_name: str):
 def setup_package():
     """
     Function to manage setup procedures.
-
-    >>> pip install lind-static-designs
-    >>> pip uninstall lind-static-designs -y
-
+    
     """
 
     cmdclass = versioneer.get_cmdclass()
