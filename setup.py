@@ -55,7 +55,7 @@ def setup_package():
     cmdclass = versioneer.get_cmdclass()
 
     setup(
-        name="lind_static_designs",
+        name="lind_static_resources",
         packages=find_namespace_packages(),
         version=versioneer.get_version(),
 
